@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages PRAW
+## Welcome to GitHub Pages PRAW 3
 
 You can use the [editor on GitHub](https://github.com/beziers/beziers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
